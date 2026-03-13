@@ -3,6 +3,8 @@
 
 
 # 🤖 IARA - Inteligência Artificial para Análise de Renda e Atividades
+<img width="1488" height="885" alt="Captura de tela 2026-03-13 001647" src="https://github.com/user-attachments/assets/6a1f0775-1ce3-4b40-8dc2-6c06f6755710" />
+
 
 IARA é uma assistente financeira inteligente capaz de analisar transações financeiras a partir de arquivos CSV e responder perguntas sobre gastos, categorias e hábitos financeiros através de um chat interativo.
 
