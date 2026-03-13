@@ -165,7 +165,7 @@ Pergunte por exemplo:
 
         <div className="header-content">
           <h1>IARA <span className="header-badge">AI</span></h1>
-          <p>Assistente Financeira Inteligente</p>
+          <p>Inteligência Artificial para Análise de Renda e Atividades</p>
         </div>
 
         <div className="header-status">
